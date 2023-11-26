@@ -21,9 +21,9 @@ Welcome to Online Food Order, where the world of delectable delights meets the e
 
 ![image](https://github.com/Randipa/Online-Food-Ordering-System/assets/96324718/7af837df-386f-4e8b-bf79-2038d8dc313b)
 
-![image](https://github.com/Randipa/Online-Food-Ordering-System/assets/96324718/4a4342a1-adda-424f-b9c0-f5188f1523eb)
-
 ![image](https://github.com/Randipa/Online-Food-Ordering-System/assets/96324718/67513f75-4ef1-4d25-b306-4ecec16add57)
+
+![image](https://github.com/Randipa/Online-Food-Ordering-System/assets/96324718/4a4342a1-adda-424f-b9c0-f5188f1523eb)
 
 
 
